@@ -1,4 +1,4 @@
 <?php
 Route::controller(AAAController::class)->group(function() {
-    Route::get('aaa', 'bbbbbb');
+    Route::get('XXX', 'bbb');
 });
